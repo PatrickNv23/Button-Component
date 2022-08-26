@@ -88,4 +88,4 @@ $ npm start
 
 ## Contact
 
-- GitHub [@PatrickNv23](https://{github.com/PatrickNv23})
+- GitHub [@PatrickNv23](https://github.com/PatrickNv23)
